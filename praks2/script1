@@ -1,0 +1,6 @@
+#!/bin/bash
+# Tere
+echo "Tere, praegune kataloog on: "
+pwd
+echo "Trükib ekraanile kes ma olen: "
+whoami
